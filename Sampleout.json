@@ -1,0 +1,110 @@
+{
+   "status": "ok",
+   "totalResults": 8,
+   "articles": [
+      {
+         "source": {
+            "id": "nfl-news",
+            "name": "NFL News"
+         },
+         "author": null,
+         "title": "Flames pour from section of Superdome roof in New Orleans",
+         "description": "Smoke and flames shot through the side of the Superdome’s roof on Tuesday as crews worked to clean and prepare the New Orleans sports and entertainment arena for painting",
+         "url": "https://www.nfl.com/news/flames-pour-from-section-of-superdome-roof-in-new-orleans",
+         "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ncffuk3vhtv6oxagzth5",
+         "publishedAt": "2021-09-22T00:22:25.5513743Z",
+         "content": "NEW ORLEANS -- Smoke and flames shot through the side of the Superdome's roof on Tuesday as crews worked to clean and prepare the New Orleans sports and entertainment arena for painting.\r\nThe New Orl… [+1055 chars]"
+      },
+      {
+         "source": {
+            "id": "lequipe",
+            "name": "L'equipe"
+         },
+         "author": "L'EQUIPE",
+         "title": "Le flash sports du 22 septembre",
+         "description": "Retrouvez l'essentiel de l'actualité sportive avec notre flash sports quotidien.",
+         "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-22-septembre/1287119",
+         "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001545887/0:0,1498:999-640-427-75/dbe22.jpg",
+         "publishedAt": "2021-09-21T22:30:00+00:00",
+         "content": "Le PSG privé de Messi à Metz, l'OM défie Angers sans Payet. Le projet de reprise de l'AS Saint-Étienne se précise. L'équipe de France féminine arrache un succès (3-2) en Slovénie. Thomas Voeckler dév… [+47 chars]"
+      },
+      {
+         "source": {
+            "id": "four-four-two",
+            "name": "FourFourTwo"
+         },
+         "author": "PA Staff",
+         "title": "Stephane Omeonga set for Livingston bow against Rangers",
+         "description": "New signing Stephane Omeonga is in line for a Livingston debut in the Premier Sports Cup quarter-final against Livingston.",
+         "url": "https://www.fourfourtwo.com/news/stephane-omeonga-set-for-livingston-bow-against-rangers-1632245260000",
+         "urlToImage": "https://cdn.mos.cms.futurecdn.net/C6rodvRbqZcDr6Wt43yM6k-1200-80.jpg",
+         "publishedAt": "2021-09-21T17:27:40Z",
+         "content": "New signing Stephane Omeonga is in line for a Livingston debut in the Premier Sports Cup quarter-final against Livingston.\r\nJackson Longridge is a doubt after going off injured against Celtic while m… [+679 chars]"
+      },
+      {
+         "source": {
+            "id": "four-four-two",
+            "name": "FourFourTwo"
+         },
+         "author": "PA Staff",
+         "title": "Dark Blues to check on Charlie Adam on eve of cup clash",
+         "description": "Dundee will assess Charlie Adam ahead of their Premier Sports Cup clash with St Johnstone but will take no risks with the midfielder’s fitness after he missed two games with a groin injury.",
+         "url": "https://www.fourfourtwo.com/news/dark-blues-to-check-on-charlie-adam-on-eve-of-cup-clash-1632243741000",
+         "urlToImage": "https://cdn.mos.cms.futurecdn.net/mswpZsn3aqA6WzEvK4GouT-1200-80.jpg",
+         "publishedAt": "2021-09-21T17:02:21Z",
+         "content": "Dundee will assess Charlie Adam ahead of their Premier Sports Cup clash with St Johnstone but will take no risks with the midfielders fitness after he missed two games with a groin injury.\r\nRyan Swee… [+518 chars]"
+      },
+      {
+         "source": {
+            "id": "fortune",
+            "name": "Fortune"
+         },
+         "author": "Lucinda Shen",
+         "title": "Why dealmaking in the sports betting and online gambling world is currently insane",
+         "description": "DraftKings has offered to acquire Entain to about $20 billion, per reports.",
+         "url": "https://fortune.com/2021/09/21/why-dealmaking-in-the-sports-betting-and-online-gambling-world-is-currently-insane/",
+         "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/03/Company-Page-DraftKings-2021-GettyImages-1228980491.jpg?resize=1200,600",
+         "publishedAt": "2021-09-21T15:16:04Z",
+         "content": "Skip to Content"
+      },
+      {
+         "source": {
+            "id": "polygon",
+            "name": "Polygon"
+         },
+         "author": "Cass Marshall",
+         "title": "Candy Crush Saga takes a swing at an esports-style tournament",
+         "description": "Candy Crush fans can compete in an upcoming tournament hosted by Khloe Kardashian. The ultimate winner will get a year’s worth of in-game gold bars.",
+         "url": "https://www.polygon.com/22684503/candy-crush-all-stars-esports-tournament-khloe-kardashian",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/NmT2DI9XOAuzL0-M5Ynz261Rg0Q=/0x405:4206x2607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22865141/GettyImages_1094674278.jpg",
+         "publishedAt": "2021-09-20T19:38:51Z",
+         "content": "Candy Crush All Stars U.S. is an upcoming, brand-new tournament that pits the best Candy Crush players against one another in a series of high-stakes Candy Crush Saga matches. If youre familiar with … [+1863 chars]"
+      },
+      {
+         "source": {
+            "id": "goteborgs-posten",
+            "name": "Göteborgs-Posten"
+         },
+         "author": "Carl Petersson Moberg",
+         "title": "Ulf Wagner öppnar ny krog vid Kungsportsplatsen",
+         "description": "Stjärnkocken skulle dra sig tillbaka – i stället satsar han på restaurang i eget namn.",
+         "url": "http://www.gp.se/kultur/kultur/ulf-wagner-%C3%B6ppnar-wagners-vid-kungsportsplatsen-1.55179592",
+         "urlToImage": "http://www.gp.se/image/policy:1.55179407:1632205736/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+         "publishedAt": "2021-09-19T19:55:47Z",
+         "content": null
+      },
+      {
+         "source": {
+            "id": "the-washington-times",
+            "name": "The Washington Times"
+         },
+         "author": "The Washington Times http://www.washingtontimes.com",
+         "title": "Latest Quizzes",
+         "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+         "url": "https://www.washingtontimes.com/quiz/",
+         "urlToImage": null,
+         "publishedAt": "2021-02-10T03:52:37.2719772Z",
+         "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+      }
+   ]
+}
